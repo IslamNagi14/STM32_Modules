@@ -1,0 +1,16 @@
+ADC_Programe.c:22:6:ADC1_enuInit	24	static
+ADC_Programe.c:84:6:ADC1_enuConfigRegularChannel	24	static
+ADC_Programe.c:140:6:ADC1_enuStartRegularConversionWithPolling	32	static
+ADC_Programe.c:180:6:ADC1_enuStartRegularConversionWithINT	24	static
+ADC_Programe.c:214:6:ADC1_enuConfigInjectedChannel	24	static
+ADC_Programe.c:256:6:ADC1_enuStartInjectedConversionWithPolling	32	static
+ADC_Programe.c:314:6:ADC1_enuStartInjectedConversionWithINT	24	static
+ADC_Programe.c:345:6:ADC1_enuEnableDisCountMOD	24	static
+ADC_Programe.c:380:6:ADC1_enuDisableDisCountMOD	24	static
+ADC_Programe.c:407:6:ADC1_enuConfigAnalogWatchdog	32	static
+ADC_Programe.c:448:6:ADC1_enuEnableINT	24	static
+ADC_Programe.c:467:6:ADC1_enuDisableINT	24	static
+ADC_Programe.c:488:6:ADC1_enuEnableDMA	16	static
+ADC_Programe.c:495:6:ADC1_enuDisableDMA	16	static
+ADC_Programe.c:504:6:ADC1_enuSetCallBackFun	24	static
+ADC_Programe.c:522:6:ADC1_2_IRQHandler	8	static

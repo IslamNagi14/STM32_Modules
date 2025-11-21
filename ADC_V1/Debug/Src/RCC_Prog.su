@@ -1,0 +1,7 @@
+RCC_Prog.c:20:6:RCC_VidInitSysClk	4	static
+RCC_Prog.c:96:6:RCC_enuStatePeripheralClk	24	static
+RCC_Prog.c:144:6:RCC_enuStateMCOpin	24	static
+RCC_Prog.c:227:6:RCC_enuStateCLKSecuritySys	24	static
+RCC_Prog.c:245:6:RCC_enuTrimHSI	24	static
+RCC_Prog.c:256:6:RCC_enuStateClkSourceInterrupt	24	static
+RCC_Prog.c:309:6:RCC_enuResetPeripheral	24	static
