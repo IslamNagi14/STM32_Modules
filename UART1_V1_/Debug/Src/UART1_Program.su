@@ -1,0 +1,7 @@
+UART1_Program.c:22:6:USART1_enuInit	24	static
+UART1_Program.c:43:6:USART1_enuSenchSendByte	24	static
+UART1_Program.c:67:6:USART1_enuAsenchSendByte	24	static
+UART1_Program.c:88:6:USART1_enuSenchSendStream	24	static
+UART1_Program.c:120:6:USART1_enuSenchRecvByte	24	static
+UART1_Program.c:148:6:USART1_enuAsenchRecvByte	24	static
+UART1_Program.c:181:6:USART1_IRQHandler	4	static
