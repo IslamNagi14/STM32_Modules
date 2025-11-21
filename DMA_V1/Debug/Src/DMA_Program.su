@@ -1,0 +1,11 @@
+DMA_Program.c:26:6:DMA_enuDmaChannelInit	24	static
+DMA_Program.c:404:6:DMA_enuDmaAsyncChannelTrans	32	static
+DMA_Program.c:585:6:DMA_enuDmaSyncChannelTrans	32	static
+DMA_Program.c:782:6:DMA_enuCallBack	24	static
+DMA_Program.c:808:6:DMA1_Channel1_IRQHandler	8	static
+DMA_Program.c:817:6:DMA1_Channel2_IRQHandler	8	static
+DMA_Program.c:825:6:DMA1_Channel3_IRQHandler	8	static
+DMA_Program.c:833:6:DMA1_Channel4_IRQHandler	8	static
+DMA_Program.c:841:6:DMA1_Channel5_IRQHandler	8	static
+DMA_Program.c:849:6:DMA1_Channel6_IRQHandler	8	static
+DMA_Program.c:857:6:DMA1_Channel7_IRQHandler	8	static
