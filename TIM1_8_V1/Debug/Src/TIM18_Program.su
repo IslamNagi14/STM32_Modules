@@ -1,0 +1,17 @@
+TIM18_Program.c:23:6:TIM_enuDelaySync_ms	40	static
+TIM18_Program.c:184:6:TIM_enuDelayAsync_ms	48	static
+TIM18_Program.c:282:6:TIM_enuEnableCTCAsynch	24	static
+TIM18_Program.c:355:6:TIM_enuDisableCTC	24	static
+TIM18_Program.c:421:6:TIM_enuPWM_Init	24	static
+TIM18_Program.c:533:6:TIM_enuPWM_SetDuty	32	static
+TIM18_Program.c:599:6:TIM_enuPWM_Start	24	static
+TIM18_Program.c:620:6:TIM_enuPWM_Stop	24	static
+TIM18_Program.c:679:6:TIM_enuIC_Init	24	static
+TIM18_Program.c:919:6:TIM_enuIC_GetValue	24	static
+TIM18_Program.c:999:6:TIM_enuIC_EnableInterrupt	24	static
+TIM18_Program.c:1056:6:TIM_enuIC_DisableInterrupt	24	static
+TIM18_Program.c:1114:6:TIM_enuCallBack	24	static
+TIM18_Program.c:1148:6:TIM1_UP_IRQHandler	8	static
+TIM18_Program.c:1164:6:TIM1_CC_IRQHandler	8	static
+TIM18_Program.c:1220:6:TIM8_UP_IRQHandler	8	static
+TIM18_Program.c:1237:6:TIM8_CC_IRQHandler	8	static

@@ -1,0 +1,8 @@
+STK_prog.c:25:6:STK_vidInitSTK	4	static
+STK_prog.c:39:6:STK_enuSyncDelay	24	static
+STK_prog.c:55:6:STK_enuASyncDelaySingleShot	24	static
+STK_prog.c:74:6:STK_enuASyncDelayMultiShot	24	static
+STK_prog.c:96:6:STK_enuStopTimer	16	static
+STK_prog.c:105:6:STK_enuGetElapsedTime	24	static
+STK_prog.c:117:6:STK_enuGetRemainingTime	24	static
+STK_prog.c:133:6:SysTick_Handler	8	static
